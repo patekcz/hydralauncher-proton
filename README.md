@@ -1,4 +1,3 @@
 # hydralauncher-proton
 Hydra Launcher with Proton and Steam support
-
-discord.gg/nefe9vdgXm
+https://discord.com/invite/nefe9vdgXm
